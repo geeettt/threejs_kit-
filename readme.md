@@ -1,9 +1,7 @@
 # Three.js Starter
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
+"cloned" from https://github.com/designcourse/threejs-webpack-starter 
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
 
 ``` bash
 # Install dependencies (only the first time)
